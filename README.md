@@ -7,20 +7,19 @@
 <div size='20px'> Hi! I'm Gaarv (obviously not my real name). 
 </div>
 
-<h2> About Me</h2>
+### About me :
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I'm a Senior Data Engineer, Developer of data applications and pipelines in Python and Scala, currently learning Rust.
+I'm a Senior Data Engineer, Developer of data applications and pipelines in Python and Scala.
 
-<br>
-<br>
-<br>
-<br>
+I'm also into Functional Programming, Reactive Architectures and Machine Learning.
 
+### Languages and Tools :
 
-<h2>GitHub Stats</h2>
-
-![Metrics](https://metrics.lecoq.io/Gaarv?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<br>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="80"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="scala" alt="scala" width="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="80"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" title="spark" alt="spark" width="80"/>&nbsp;
+</p>
